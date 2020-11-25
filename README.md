@@ -3,7 +3,7 @@ This github repo is a guide to become a self taught software enginner. I have li
 
 This repo is still in early development, more topics will be added with time.
 
-1. ### Data Structures And Algorithms
+### Data Structures And Algorithms
 
 The best place you can refer to is no other than [GeeksForGeeks](https://www.geeksforgeeks.org).
 
@@ -40,4 +40,5 @@ For both Tree and Graph you need to know their traversal techniques.
 [Breadth and Depth First Traversal, for Tree and Graph](https://www.youtube.com/watch?v=cWNEl4HE2OE)
 
 **Algorithms**
+
 
