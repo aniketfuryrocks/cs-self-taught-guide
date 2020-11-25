@@ -1,9 +1,16 @@
 # cs-self-taught-guide
 This github repo is a guide to become a self taught software enginner. I have listed all the essential topics that one needs to know, with their respected resources. All resources are free in public domain. Feel free to submit a pull request and help the community further.
 
+This repo is still in early development, more topics will be added with time.
+
 1. ### Data Structures And Algorithms
 
 The best place you can refer to is no other than [GeeksForGeeks](https://www.geeksforgeeks.org).
+
+**Analysis of Algorithms(Asymptotic Analysis)**
+
+You need to know how to analyse time and space complexity. It is not required to get into its math just yet. But you should have a jist of it, especially
+Big O Notation. One should deeply understand this concept before approaching for an interview. You can read further on this topic [here](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/). I advise you to first do basic dsa and then read about Asymptotic Analysis.
 
 **Data Structures**
 
@@ -32,4 +39,5 @@ For both Tree and Graph you need to know their traversal techniques.
 
 [Breadth and Depth First Traversal, for Tree and Graph](https://www.youtube.com/watch?v=cWNEl4HE2OE)
 
-*Algorithms*
+**Algorithms**
+
