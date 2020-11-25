@@ -23,5 +23,13 @@ The best place you can refer to is no other than [GeeksForGeeks](https://www.gee
 + + [Splay Tree](https://www.geeksforgeeks.org/splay-tree-set-1-insert/)
 + + [Trep](https://www.geeksforgeeks.org/treap-a-randomized-binary-search-tree/)
 + + [B-tree](https://www.geeksforgeeks.org/introduction-of-b-tree-2/)
-+ Graph
++ [Graph Theory](https://www.geeksforgeeks.org/mathematics-graph-theory-basics-set-1/?ref=lbp)
++ + [Video Source](https://www.youtube.com/watch?v=cWNEl4HE2OE)
 
+For both Tree and Graph you need to know their traversal techniques.
+
+[In-Order, Pre-Order, Post-Order for trees](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+
+[Breadth and Depth First Traversal, for Tree and Graph](https://www.youtube.com/watch?v=cWNEl4HE2OE)
+
+*Algorithms*
