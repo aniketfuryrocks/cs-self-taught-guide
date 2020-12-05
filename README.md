@@ -1,5 +1,5 @@
 # cs-self-taught-guide
-This github repo is a guide to become a self taught software enginner. I have listed all the essential topics that one needs to know, with their respected resources. All resources are free in public domain. Feel free to submit a pull request and help the community further.
+This Github repo is a guide to becoming a self-taught software engineer. I have listed all the essential topics that one needs to know, with their respected resources. All resources are free in the public domain. Feel free to submit a pull request and help the community further.
 
 This repo is still in early development, more topics will be added with time.
 
@@ -9,7 +9,7 @@ The best place you can refer to is no other than [GeeksForGeeks](https://www.gee
 
 **Analysis of Algorithms(Asymptotic Analysis)**
 
-You need to know how to analyse time and space complexity. It is not required to get into its math just yet. But you should have a jist of it, especially
+You need to know how to analyze time and space complexity. It is not required to get into its math just yet. But you should have a jist of it, especially
 Big O Notation. One should deeply understand this concept before approaching for an interview. You can read further on this topic [here](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/). I advise you to first do basic dsa and then read about Asymptotic Analysis.
 
 **Data Structures**
@@ -33,7 +33,7 @@ Big O Notation. One should deeply understand this concept before approaching for
 + [Graph Theory](https://www.geeksforgeeks.org/mathematics-graph-theory-basics-set-1/?ref=lbp)
 + + [Video Source](https://www.youtube.com/watch?v=cWNEl4HE2OE)
 
-For both Tree and Graph you need to know their traversal techniques.
+For both Tree and Graph, you need to know their traversal techniques.
 
 [In-Order, Pre-Order, Post-Order for trees](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
 
